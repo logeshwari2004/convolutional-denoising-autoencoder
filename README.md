@@ -14,15 +14,21 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 
 ## DESIGN STEPS
 
-### STEP 1:Import the necessary libraries and dataset.
-### STEP 2:Load the dataset and scale the values for easier computation.
-### STEP 3:Add noise to the images randomly for both the train and test sets.
-### STEP 4:Build the Neural Model using
+### STEP 1:
+Import the necessary libraries and dataset.
+### STEP 2:
+Load the dataset and scale the values for easier computation.
+### STEP 3:
+Add noise to the images randomly for both the train and test sets.
+### STEP 4:
+Build the Neural Model using
 *Convolutional Layer
 *Pooling Layer
 *Up Sampling Layer. Make sure the input shape and output shape of the model are identical.
-### STEP 5:Pass test data for validating manually.
-### STEP 6:Plot the predictions for visualization.
+### STEP 5:
+Pass test data for validating manually.
+### STEP 6:
+Plot the predictions for visualization.
 
 
 ## PROGRAM
